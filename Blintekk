@@ -9,9 +9,12 @@
 <body>
   <header>
     <h1>Expertos en sistemas de seguridad y telecomunicaciones</h1>
+    <h2>Todo lo que necesita</h2>
     </header>
     
     <img src="./logo-04.png" alt="logo blintek"/>
+    
+    
 </body>
 </html>
 
